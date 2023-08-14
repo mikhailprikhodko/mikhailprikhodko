@@ -2,7 +2,7 @@
 
 I am a highly motivated QA tester, ready to bring my skills and expertise to your team and contribute to delivering outstanding product quality.
 
-## How I Add Value:
+## Summary:
 
 🔍 **Thorough Testing:**  I'm really good at finding even the hidden problems in software. I can carefully check how different parts work together and how users would use it.
 
