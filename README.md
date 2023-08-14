@@ -15,7 +15,10 @@ I am a highly motivated QA tester, ready to bring my skills and expertise to you
 ## My Skill Set:
 
 - **Documentation:** Test plans, Test cases, Bug reports, Test reports
-- **Client-Server Architecture:** TCP/IP, HTTP, HTML, CSS, JSON, Chrome DevTools
-- **API Testing:** REST, SOAP - POSTMAN, SOAP UI, Charles
-- **Databases:** JOINs - MySQL, MongoDB
-- **CI/CD and Tools:** Docker, Git, GitHub, Figma, Confluence, Jira
+- **Client-Server Architecture:** TCP/IP, HTTP, HTML, CSS, JSON
+- **API Testing:** POSTMAN, SOAP UI, Charles
+- **Databases:** MySQL, MongoDB
+- **CI/CD and Tools:** GitHub, Chrome DevTools
+- **Bug Tracking Systems:** Jira, Azure, DevOps
+- **Languages:** English - C1 , French - Beginner, Russian - Native
+
