@@ -6,7 +6,6 @@ How I can add value:
 
 🛠️ Technical Mastery: My grasp of software testing is deeply rooted in a strong foundation of programming and architecture. This empowers me to effectively collaborate with developers and contribute to defect identification and resolution.
 
-📊 Automation Excellence: I excel in crafting automated tests, resulting in substantial reductions in testing cycle time and heightened product stability.
 
 🌐 Collaboration Synergy: Attention to detail and effective communication are among my core strengths. I am well-prepared to seamlessly collaborate with team members at all levels, ensuring optimal outcomes.
 
