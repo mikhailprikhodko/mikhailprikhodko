@@ -14,8 +14,8 @@ I am a highly motivated QA tester, ready to bring my skills and expertise to you
 
 ## My Skill Set:
 
-- **Documentation:** TestRail, Jira
+- **Documentation:** Test plans, Test cases, Bug reports, Test reports)
 - **Client-Server Architecture:** TCP/IP, HTTP, HTML, CSS, JSON, Chrome DevTools
 - **API Testing:** REST, SOAP - POSTMAN, SOAP UI, Charles
-- **Databases:** CRUD, JOINs - MySQL, MongoDB
-- **CI/CD and Tools:** Docker, Git, GitHub, Figma, Confluence
+- **Databases:** JOINs - MySQL, MongoDB
+- **CI/CD and Tools:** Docker, Git, GitHub, Figma, Confluence, Jira
