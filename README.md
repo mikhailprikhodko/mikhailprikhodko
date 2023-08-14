@@ -2,12 +2,14 @@
 
 How I can add value:
 
-🔍 Thorough Testing: I possess a unique ability to uncover even the most concealed defects. My experience allows me to meticulously navigate through functional, integration, and user scenarios.
+🔍 Comprehensive Testing: I possess a distinctive ability to uncover even the most concealed defects. This proficiency enables me to navigate meticulously through functional, integration, and user scenarios.
 
-🛠️ Technical Expertise: My software testing knowledge is grounded in a solid foundation of programming and architecture. This enables me to effectively collaborate with developers and assist in defect identification and resolution.
+🛠️ Technical Mastery: My grasp of software testing is deeply rooted in a strong foundation of programming and architecture. This empowers me to effectively collaborate with developers and contribute to defect identification and resolution.
 
-🌐 Team Collaboration: Attention to detail and clear communication are my strengths. I am prepared to collaborate seamlessly with team members at all levels to deliver the best results.
+📊 Automation Excellence: I excel in crafting automated tests, resulting in substantial reductions in testing cycle time and heightened product stability.
 
-💡 Continuous Learning: I am dedicated to self-improvement and always ready to embrace new tools and methodologies for an enhanced QA process.
+🌐 Collaboration Synergy: Attention to detail and effective communication are among my core strengths. I am well-prepared to seamlessly collaborate with team members at all levels, ensuring optimal outcomes.
+
+💡 Commitment to Learning: I am devoted to continuous self-improvement and readily embrace emerging tools and methodologies to elevate the QA process.
 
 My skills: Documentation (Test plans, Test cases, Bug reports, Test reports) - TestRail, Jira Client-Server Architecture (TCP/IP, HTTP, HTML, CSS, JSON) - Chrome DevTools API testing (REST, SOAP) - POSTMAN, SOAP UI, Charles Databases CRUD requests, JOINs (SQL, NOSQL) - MySQL, MongoDB CI/CD, Docker, Git, GitHub, Figma, Confluence
