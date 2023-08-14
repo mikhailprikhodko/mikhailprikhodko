@@ -1,4 +1,4 @@
-### Greetings! I am a QA tester, ready to contribute to your team and ensure the highest level of product quality.
+### Greetings! I am a highly motivated QA tester, ready to bring my skills and expertise to your team and contribute to delivering outstanding product quality.
 
 How I can add value:
 
