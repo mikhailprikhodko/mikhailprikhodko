@@ -20,5 +20,5 @@ I am a highly motivated QA tester, ready to bring my skills and expertise to you
 - **Databases:** MySQL, MongoDB
 - **CI/CD and Tools:** GitHub, Chrome DevTools
 - **Bug Tracking Systems:** Jira, Azure, DevOps
-- **Languages:** English - C1 , French - Beginner, Russian - Native
+- **Languages:** English - B2 , French - A2, Russian - Native
 
