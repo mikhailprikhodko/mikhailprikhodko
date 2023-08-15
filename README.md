@@ -4,9 +4,9 @@ I am a highly motivated QA tester, ready to bring my skills and expertise to you
 
 ## Summary:
 
-🔍 **Thorough Testing:**  I'm really good at finding even the hidden problems in software. I can carefully check how different parts work together and how users would use it.
+🔍 **Thorough Testing:**  I'm really good at finding even the hidden problems in software. I can carefully check how different parts work together.
 
-🛠️ **Technical Skills:**  I understand software testing really well because I know how programs are built. This helps me work well with developers to find and fix issues.
+🛠️ **Technical Skills:**  I understand software testing well. This helps me to find and fix issues.
 
 🌐 **Teamwork:**  I'm great at paying attention to small details and talking to others. I can work smoothly with all team members to make sure everything works out well.
 
